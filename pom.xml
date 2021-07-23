@@ -23,7 +23,7 @@
 
         <!-- Spring -->
         <spring.version>5.2.6.RELEASE</spring.version>
-        <spring.security.version>5.4.6</spring.security.version>
+        <spring.security.version>5.5.1</spring.security.version>
         <spring-data-jpa.version>2.4.3</spring-data-jpa.version>
 
 
